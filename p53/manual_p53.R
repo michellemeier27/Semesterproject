@@ -1,0 +1,111 @@
+##This is the manual script for p53 containing all the manually annotated information 
+#samples that are not relevant for the study
+
+# -> download irrelevant samples from file
+wrong_samples_p53_df <- read.csv(file = "/Users/michellemeier/Semesterproject/ARCHS4/p53/removed_samples_series_p53.csv",colClasses=c(NA, "NULL", "NULL","NULL", "NULL", "NULL", "NULL"))
+wrong_samples_p53 = as.vector(wrong_samples_p53_df$p53.removed.samples.series)
+
+
+#samples that have wrong condition annotation 
+control_list_p53 = c("GSM2157784","GSM2157785","GSM2157786","GSM1922703","GSM1922704","GSM1922705","GSM1922709","GSM1922710","GSM1922711","GSM1922715","GSM1922716","GSM1922717",
+                     "GSM1922721","GSM1922722","GSM1922723","GSM1917083","GSM1917084","GSM1917085","GSM1917086","GSM1917087","GSM1917088","GSM1917089","GSM1917090","GSM1917091",
+                     "GSM2501571","GSM2501572","GSM2501573","GSM2501574","GSM2501575","GSM2501576","GSM2501577","GSM2501578","GSM2501579","GSM2501580","GSM2501581","GSM2664062",
+                     "GSM2664064","GSM2664066","GSM2664068","GSM2664070","GSM2664072","GSM2664074","GSM2664076","GSM2664078","GSM2664080","GSM2664082","GSM2664064","GSM2671215",
+                     "GSM2671237","GSM2671259","GSM2671271","GSM2671283","GSM2671216","GSM2671217","GSM2671218","GSM2671219","GSM2671220","GSM2671221","GSM2671222","GSM2671223",
+                     "GSM2671224","GSM2671225","GSM2671226","GSM2671238","GSM2671239","GSM2671240","GSM2671241","GSM2671242","GSM2671243","GSM2671244","GSM2671245","GSM2671246",
+                     "GSM2671247","GSM2671248","GSM2671249","GSM2671250","GSM2671284","GSM2671285","GSM2671286","GSM2671287","GSM2671288","GSM2715135","GSM2715136","GSM2715137",
+                     "GSM2714862","GSM2714863","GSM2714864","GSM3020079","GSM3020080","GSM3020081","GSM3020082","GSM3020083","GSM3020084","GSM2967250","GSM2967251","GSM2967254",
+                     "GSM2967255","GSM3523613","GSM3523614","GSM3523615","GSM3523619","GSM3523620","GSM3523621","GSM3523628","GSM3523629","GSM3523630","GSM2486503","GSM2486504",
+                     "GSM3737482","GSM3737483","GSM3737484","GSM2501176","GSM2501177","GSM2501178","GSM2501179","GSM1917137","GSM1917138","GSM1917139","GSM1917140","GSM1917141",
+                     "GSM1917142","GSM1917143","GSM1917144","GSM1917145","GSM2252986","GSM2252987","GSM2252988","GSM2361405","GSM2361406","GSM3523631","GSM3523632","GSM3523633",
+                     "GSM3910175","GSM3910176","GSM1922712","GSM1922713","GSM1922714","GSM1922724","GSM1922725","GSM1922726")
+
+case_list_p53 = c("GSM2358955","GSM2358956","GSM2358957","GSM2967280","GSM2967281","GSM2089691","GSM2089695","GSM2089699","GSM2211611","GSM2211612","GSM1922709","GSM1922710",
+                  "GSM1922711","GSM1922721","GSM1922722","GSM1922723")
+
+
+#subdividing series according to celltype or patient or cell growth phase (or what ever reason some of these experimental setups are bastards)
+#series: GSE74550
+subseries_1a = c("GSM1922703","GSM1922704","GSM1922705","GSM1922706","GSM1922707","GSM1922708")
+subseries_2a = c("GSM1922709","GSM1922710","GSM1922711","GSM1922712","GSM1922713","GSM1922714")
+subseries_3a = c("GSM1922715","GSM1922716","GSM1922717","GSM1922718","GSM1922719","GSM1922720")
+subseries_4a = c("GSM1922721","GSM1922722","GSM1922723","GSM1922724","GSM1922725","GSM1922726")
+#series: GSE74324
+subseries_1b = c("GSM1917092","GSM1917093","GSM1917094","GSM1917137","GSM1917138","GSM1917139")
+subseries_2b = c("GSM1917095","GSM1917096","GSM1917097","GSM1917140","GSM1917141","GSM1917142")
+subseries_3b = c("GSM1917098","GSM1917099","GSM1917100","GSM1917143","GSM1917144","GSM1917145")
+#series: GSE99909
+subseries_1c = c("GSM2664062","GSM2664063","GSM2664068","GSM2664069","GSM2664074","GSM2664075","GSM2664080","GSM2664081")
+subseries_2c = c("GSM2664064","GSM2664065","GSM2664070","GSM2664071","GSM2664076","GSM2664077","GSM2664082","GSM2664083")
+subseries_3c = c("GSM2664066","GSM2664067","GSM2664072","GSM2664073","GSM2664078","GSM2664079","GSM2664084","GSM2664085")
+#series: GSE100099
+subseries_1d = c("GSM2671215","GSM2671229","GSM2671237","GSM2671251","GSM2671259","GSM2671271","GSM2671283")
+subseries_2d = c("GSM2671216","GSM2671217","GSM2671218","GSM2671219","GSM2671220","GSM2671221","GSM2671222","GSM2671223","GSM2671224","GSM2671225",
+                 "GSM2671226","GSM2671227","GSM2671228","GSM2671230","GSM2671231","GSM2671232","GSM2671233","GSM2671234","GSM2671235","GSM2671236",
+                 "GSM2671238","GSM2671239","GSM2671240","GSM2671241","GSM2671242","GSM2671243","GSM2671244","GSM2671245","GSM2671246","GSM2671247",
+                 "GSM2671248","GSM2671249","GSM2671250","GSM2671252","GSM2671253","GSM2671254","GSM2671255","GSM2671256","GSM2671257","GSM2671258",
+                 "GSM2671284","GSM2671285","GSM2671286","GSM2671287","GSM2671288")
+#series: GSE84986
+subseries_1e = c("GSM2255508","GSM2255511","GSM2255520","GSM2255523","GSM2255532","GSM2255535")
+subseries_2e = c("GSM2255509","GSM2255512","GSM2255521","GSM2255524","GSM2255533","GSM2255536")
+subseries_3e = c("GSM2255510","GSM2255513","GSM2255522","GSM2255525","GSM2255534","GSM2255537")
+
+#series: GSE111009
+subseries_1f = c("GSM3020079","GSM3020080","GSM3020081","GSM3020086")
+subseries_2f = c("GSM3020082","GSM3020083","GSM3020084","GSM3020088","GSM3020087")
+
+#series: GSE109786
+subseries_1g = c("GSM2967252","GSM2967253","GSM2967280","GSM2967281")
+subseries_2g = c("GSM2967250","GSM2967251","GSM2967282","GSM2967283")
+subseries_3g = c("GSM2967254","GSM2967255","GSM2967284","GSM2967285")
+
+#series: GSE124189
+subseries_1h = c("GSM3523610","GSM3523611","GSM3523612","GSM3523613","GSM3523614","GSM3523615")
+subseries_2h = c("GSM3523616","GSM3523617","GSM3523618","GSM3523619","GSM3523620","GSM3523621")
+subseries_3h = c("GSM3523622","GSM3523623","GSM3523624","GSM3523628","GSM3523629","GSM3523630")
+subseries_4h = c("GSM3523625","GSM3523626","GSM3523627","GSM3523631","GSM3523632","GSM3523633")
+
+#series: GSE95304
+subseries_1i = c("GSM2501571","GSM2501573","GSM2501575","GSM2501577","GSM2501579","GSM2501587")
+subseries_2i = c("GSM2501572","GSM2501574","GSM2501576","GSM2501578","GSM2501580","GSM2501588")
+
+#summarising subseries
+subseries_1 = c(subseries_1a,subseries_1b, subseries_1c, subseries_1d, subseries_1e, subseries_1f, subseries_1g, subseries_1h, subseries_1i)
+subseries_2 = c(subseries_2a, subseries_2b, subseries_2c, subseries_2d,subseries_2e,subseries_2f,subseries_2g,subseries_2h, subseries_2i)
+subseries_3 = c(subseries_3a,subseries_3b, subseries_3c, subseries_3e, subseries_3h, subseries_3g)
+subseries_4 = c(subseries_4a, subseries_4h)
+
+
+
+#series for ssGSEA
+ssGSEA_series = c("GSE58507","GSE74324_1","GSE74324_2","GSE74493","GSE74550_1","GSE74550_2","GSE74550_3","GSE75627","GSE76023",
+                  "GSE79249","GSE81626","GSE84877","GSE86190","GSE89226","GSE94980","GSE95169","GSE95304","GSE99909_1","GSE99909_2",
+                  "GSE99909_3","GSE100099_2","GSE106414","GSE109786_2","GSE110387","GSE110610","GSE120534","GSE123029")
+
+#samples for merging in list 
+
+merge_list = list(c("GSM3004143","GSM3004161"),c("GSM3004144","GSM3004162"),c("GSM3004145","GSM3004163"), c("GSM3004150","GSM3004168"), 
+                  c("GSM3004151","GSM3004169"),c("GSM3004152","GSM3004170"),c("GSM3004153","GSM3004171"))
+
+#no control/cases
+no_control_p53 = c("GSE124189_4")
+
+#direction not control
+case_direction = c("GSE89110","GSE111009_1","GSE124189_3","GSE130398")
+control_direction_p53 = unique(p53_res_3[! p53_res_3$series_id %in% case_direction,]$series_id)
+
+##gene set list for ssGSEA
+#read gene sets from txt files 
+gs_p53 <- read.table("raw_data/gene_sets/gene_set_p53.txt", sep = ",", skip = 3)
+colnames(gs_p53) = c("genes")
+gs_DNA_repair <- read.table("raw_data/gene_sets/gene_set_DNA_repair.txt", sep = ",", skip = 3)
+colnames(gs_DNA_repair)= c("genes")
+gs_apoptosis <- read.table("raw_data/gene_sets/gene_set_apoptosis.txt",sep = ",", skip = 3)
+colnames(gs_apoptosis)= c("genes")
+
+
+gene_set_list_p53 <- list(as.vector(gs_p53$genes), as.vector(gs_DNA_repair$genes), as.vector(gs_apoptosis$genes))
+names(gene_set_list_p53) = c("p53" ,"DNA_repair","apoptosis") 
+                                                                                
+
+

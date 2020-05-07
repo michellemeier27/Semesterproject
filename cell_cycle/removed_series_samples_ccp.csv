@@ -1,0 +1,734 @@
+﻿Removed Series and Samples,,,
+Series,Reason,Sample,Reason
+GSE126788,irrelevant setup,GSM2046873,"basal controls, keep siCTR"
+GSE51124,irrelevant setup,GSM2046874,"basal controls, keep siCTR"
+GSE65999,irrelevant setup,GSM2046875,"basal controls, keep siCTR"
+GSE74927,irrelevant setup,GSM2046876,"basal controls, keep siCTR"
+GSE55534,irrelevant setup,GSM2046877,"basal controls, keep siCTR"
+GSE62852,irrelevant setup,GSM2046878,"basal controls, keep siCTR"
+GSE77538,irrelevant setup,GSM1917092,irrelevant knockout 
+GSE74369,irrelevant setup,GSM1917093,irrelevant knockout 
+GSE85783,irrelevant setup,GSM1917094,irrelevant knockout 
+GSE89872,irrelevant setup,GSM1917095,irrelevant knockout 
+GSE76903,irrelevant setup,GSM1917096,irrelevant knockout 
+GSE79210,irrelevant setup,GSM1917097,irrelevant knockout 
+GSE83652,irrelevant setup,GSM1917098,irrelevant knockout 
+GSE88931,irrelevant setup,GSM1917099,irrelevant knockout 
+GSE104766,irrelevant setup,GSM1917100,irrelevant knockout 
+GSE99133,irrelevant setup,GSM1917101,irrelevant knockout 
+GSE90063,irrelevant setup,GSM1917102,irrelevant knockout 
+GSE110496,irrelevant setup,GSM1917103,irrelevant knockout 
+GSE80609,irrelevant setup,GSM1917104,irrelevant knockout 
+GSE94660,irrelevant setup,GSM1917105,irrelevant knockout 
+GSE104782,irrelevant setup,GSM1917106,irrelevant knockout 
+GSE118734,only one sample,GSM1917107,irrelevant knockout 
+GSE107600,irrelevant setup,GSM1917108,irrelevant knockout 
+GSE120201,irrelevant setup,GSM1917109,irrelevant knockout 
+GSE116672,irrelevant setup,GSM1917110,irrelevant knockout 
+GSE123070,irrelevant setup,GSM1917111,irrelevant knockout 
+GSE117446,irrelevant setup,GSM1917112,irrelevant knockout 
+GSE93939,irrelevant setup,GSM1917113,irrelevant knockout 
+GSE120920,irrelevant setup,GSM1917114,irrelevant knockout 
+GSE125977,irrelevant setup,GSM1917115,irrelevant knockout 
+GSE117994,irrelevant setup,GSM1917116,irrelevant knockout 
+GSE134056,irrelevant setup,GSM1917117,irrelevant knockout 
+GSE135842,too many knockouts -> maybe reevaluate ,GSM1917118,irrelevant knockout 
+GSE120396,irrelevant setup,GSM1917128,irrelevant knockout 
+GSE138518,irrelevant setup,GSM1917129,irrelevant knockout 
+GSE114981,irrelevant setup,GSM1917130,irrelevant knockout 
+GSE40111,irrelevant setup,GSM1917131,irrelevant knockout 
+GSE61586,irrelevant setup,GSM1917132,irrelevant knockout 
+GSE81485,irrelevant setup,GSM1917133,irrelevant knockout 
+GSE75234,irrelevant setup,GSM1917134,irrelevant knockout 
+GSE55716,irrelevant setup,GSM1917135,irrelevant knockout 
+GSE88612,irrelevant setup,GSM1917136,irrelevant knockout 
+GSE76661,irrelevant setup,GSM1917137,irrelevant knockout 
+GSE71456,irrelevant setup,GSM1917138,irrelevant knockout 
+GSE97356,irrelevant setup,GSM1917139,irrelevant knockout 
+GSE108347,only two samples,GSM1917140,irrelevant knockout 
+GSE103868,irrelevant setup,GSM1917141,irrelevant knockout 
+GSE116501,irrelevant setup,GSM1917142,irrelevant knockout 
+GSE114159,irrelevant setup,GSM1917143,irrelevant knockout 
+GSE125247,only two samples,GSM1917144,irrelevant knockout 
+GSE125248,only two samples,GSM1917145,irrelevant knockout 
+GSE125250,only two samples,GSM1917146,irrelevant knockout 
+GSE125251,only two samples,GSM1917147,irrelevant knockout 
+GSE125252,only one sample,GSM1917148,irrelevant knockout 
+GSE104232,irrelevant setup,GSM1917149,irrelevant knockout 
+GSE127160,only two samples,GSM1917150,irrelevant knockout 
+GSE97341,irrelevant setup,GSM1917151,irrelevant knockout 
+GSE137211,irrelevant setup,GSM1917152,irrelevant knockout 
+GSE99987,irrelevant setup,GSM1917153,irrelevant knockout 
+GSE105454,irrelevant setup,GSM1917154,irrelevant knockout 
+GSE62820,irrelevant setup,GSM2501581,irrelevant knockout 
+GSE77276,irrelevant setup,GSM2501582,irrelevant knockout 
+GSE89226,no clustering,GSM2501583,irrelevant knockout 
+GSE93365,no clustering,GSM2501584,irrelevant knockout 
+GSE95057,no clustering,GSM2501587,irrelevant knockout 
+GSE95304,no clustering,GSM2501588,irrelevant knockout 
+GSE101766,no clustering,GSM2501589,irrelevant knockout 
+GSE134095,no clustering,GSM2501590,irrelevant knockout 
+GSE118798,no controls,GSM1924559,irrelevant condition 
+GSE64016,"no cases, no differences between phases",GSM1924560,irrelevant condition 
+,,GSM1924561,irrelevant condition 
+,,GSM1924565,irrelevant treatment
+,,GSM1924566,irrelevant treatment
+,,GSM1924567,irrelevant treatment
+,,GSM2248003,irrelevant knockout 
+,,GSM2248004,irrelevant knockout 
+,,GSM2248005,irrelevant knockout 
+,,GSM2248006,irrelevant knockout 
+,,GSM2248007,irrelevant knockout 
+,,GSM2248008,irrelevant knockout 
+,,GSM2248012,irrelevant knockout 
+,,GSM2248013,irrelevant knockout 
+,,GSM2248014,irrelevant knockout 
+,,GSM2248015,irrelevant knockout 
+,,GSM2248016,irrelevant knockout 
+,,GSM2248017,irrelevant knockout 
+,,GSM2248018,irrelevant knockout 
+,,GSM2248019,irrelevant knockout 
+,,GSM2248020,irrelevant knockout 
+,,GSM2248021,irrelevant knockout 
+,,GSM2938989,irrelevant knockout 
+,,GSM2938990,irrelevant knockout 
+,,GSM2938993,irrelevant knockout 
+,,GSM2938994,irrelevant knockout 
+,,GSM2938995,irrelevant knockout 
+,,GSM2938996,irrelevant knockout 
+,,GSM2938999,irrelevant knockout 
+,,GSM2939000,irrelevant knockout 
+,,GSM2714865,irrelevant knockout 
+,,GSM2714866,irrelevant knockout 
+,,GSM2714867,irrelevant knockout 
+,,GSM2714868,irrelevant knockout 
+,,GSM2714869,irrelevant knockout 
+,,GSM2714870,irrelevant knockout 
+,,GSM2714871,irrelevant knockout 
+,,GSM2714872,irrelevant knockout 
+,,GSM2714873,irrelevant knockout 
+,,GSM2714874,irrelevant knockout 
+,,GSM2714875,irrelevant knockout 
+,,GSM2714876,irrelevant knockout 
+,,GSM2714877,irrelevant knockout 
+,,GSM2714878,irrelevant knockout 
+,,GSM2714879,irrelevant knockout 
+,,GSM2714880,irrelevant knockout 
+,,GSM2714881,irrelevant knockout 
+,,GSM2714882,irrelevant knockout 
+,,GSM2714883,irrelevant knockout 
+,,GSM2714884,irrelevant knockout 
+,,GSM2714885,irrelevant knockout 
+,,GSM2714886,irrelevant knockout 
+,,GSM2714887,irrelevant knockout 
+,,GSM2714888,irrelevant knockout 
+,,GSM2714889,irrelevant knockout 
+,,GSM2714890,irrelevant knockout 
+,,GSM2714891,irrelevant knockout 
+,,GSM2714892,irrelevant knockout 
+,,GSM2714893,irrelevant knockout 
+,,GSM2714894,irrelevant knockout 
+,,GSM2714895,irrelevant knockout 
+,,GSM2714896,irrelevant knockout 
+,,GSM2714897,irrelevant knockout 
+,,GSM2714898,irrelevant knockout 
+,,GSM2714899,irrelevant knockout 
+,,GSM2714900,irrelevant knockout 
+,,GSM2714901,irrelevant knockout 
+,,GSM2714902,irrelevant knockout 
+,,GSM2714903,irrelevant knockout 
+,,GSM2714904,irrelevant knockout 
+,,GSM2714905,irrelevant knockout 
+,,GSM2714906,irrelevant knockout 
+,,GSM2714907,irrelevant knockout 
+,,GSM2714908,irrelevant knockout 
+,,GSM2714909,irrelevant knockout 
+,,GSM2714910,irrelevant knockout 
+,,GSM2714911,irrelevant knockout 
+,,GSM2714912,irrelevant knockout 
+,,GSM2714913,irrelevant knockout 
+,,GSM2714914,irrelevant knockout 
+,,GSM2714915,irrelevant knockout 
+,,GSM2714916,irrelevant knockout 
+,,GSM2714917,irrelevant knockout 
+,,GSM2714918,irrelevant knockout 
+,,GSM2714919,irrelevant knockout 
+,,GSM2714920,irrelevant knockout 
+,,GSM2714921,irrelevant knockout 
+,,GSM2714922,irrelevant knockout 
+,,GSM2715126,irrelevant knockout 
+,,GSM2715127,irrelevant knockout 
+,,GSM2715128,irrelevant knockout 
+,,GSM2715129,irrelevant knockout 
+,,GSM2715130,irrelevant knockout 
+,,GSM2715131,irrelevant knockout 
+,,GSM2715132,irrelevant knockout 
+,,GSM2715133,irrelevant knockout 
+,,GSM2715134,irrelevant knockout 
+,,GSM2714863,irrelevant knockout 
+,,GSM2714864,irrelevant knockout 
+,,GSM3488750,irrelevant knockout 
+,,GSM3488751,irrelevant knockout 
+,,GSM3488752,irrelevant knockout 
+,,GSM3488753,irrelevant knockout 
+,,GSM3488754,irrelevant knockout 
+,,GSM3488755,irrelevant knockout 
+,,GSM3488756,irrelevant knockout 
+,,GSM3488757,irrelevant knockout 
+,,GSM3488758,irrelevant knockout 
+,,GSM3488759,irrelevant knockout 
+,,GSM3488760,irrelevant knockout 
+,,GSM3488761,irrelevant knockout 
+,,GSM3488764,irrelevant knockout 
+,,GSM3488765,irrelevant knockout 
+,,GSM3488766,irrelevant knockout 
+,,GSM3488767,irrelevant knockout 
+,,GSM3488770,irrelevant knockout 
+,,GSM3488771,irrelevant knockout 
+,,GSM3488772,irrelevant knockout 
+,,GSM3488775,irrelevant knockout 
+,,GSM3488776,irrelevant knockout 
+,,GSM3488777,irrelevant knockout 
+,,GSM3488778,irrelevant knockout 
+,,GSM3488781,irrelevant knockout 
+,,GSM3488782,irrelevant knockout 
+,,GSM3488783,irrelevant knockout 
+,,GSM3488784,irrelevant knockout 
+,,GSM3488785,irrelevant knockout 
+,,GSM3488786,irrelevant knockout 
+,,GSM3488787,irrelevant knockout 
+,,GSM3488788,irrelevant knockout 
+,,GSM3488789,irrelevant knockout 
+,,GSM2495291,irrelevant knockout 
+,,GSM2495292,irrelevant knockout 
+,,GSM2495293,irrelevant knockout 
+,,GSM2495294,irrelevant knockout 
+,,GSM2495295,irrelevant knockout 
+,,GSM2495296,irrelevant knockout 
+,,GSM2495297,irrelevant knockout 
+,,GSM2495298,irrelevant knockout 
+,,GSM2495299,irrelevant knockout 
+,,GSM2495300,irrelevant knockout 
+,,GSM2495301,irrelevant knockout 
+,,GSM2495302,irrelevant knockout 
+,,GSM2495303,irrelevant knockout 
+,,GSM2495304,irrelevant knockout 
+,,GSM2495305,irrelevant knockout 
+,,GSM2495306,irrelevant knockout 
+,,GSM2495307,irrelevant knockout 
+,,GSM2495308,irrelevant knockout 
+,,GSM2495309,irrelevant knockout 
+,,GSM2495310,irrelevant knockout 
+,,GSM2495311,irrelevant knockout 
+,,GSM2495312,irrelevant knockout 
+,,GSM2495316,irrelevant knockout 
+,,GSM2495317,irrelevant knockout 
+,,GSM2495318,irrelevant knockout 
+,,GSM2495319,irrelevant knockout 
+,,GSM2495320,irrelevant knockout 
+,,GSM2495321,irrelevant knockout 
+,,GSM2495322,irrelevant knockout 
+,,GSM2495323,irrelevant knockout 
+,,GSM2495324,irrelevant knockout 
+,,GSM2495325,irrelevant knockout 
+,,GSM2495326,irrelevant knockout 
+,,GSM2495327,irrelevant knockout 
+,,GSM2495328,irrelevant knockout 
+,,GSM2495329,irrelevant knockout 
+,,GSM2495330,irrelevant knockout 
+,,GSM2495331,irrelevant knockout 
+,,GSM2495332,irrelevant knockout 
+,,GSM2495333,irrelevant knockout 
+,,GSM2495334,irrelevant knockout 
+,,GSM2495335,irrelevant knockout 
+,,GSM2495336,irrelevant knockout 
+,,GSM2495340,irrelevant knockout 
+,,GSM2495341,irrelevant knockout 
+,,GSM2495342,irrelevant knockout 
+,,GSM2495343,irrelevant knockout 
+,,GSM2495344,irrelevant knockout 
+,,GSM2495345,irrelevant knockout 
+,,GSM2495346,irrelevant knockout 
+,,GSM2495347,irrelevant knockout 
+,,GSM2495348,irrelevant knockout 
+,,GSM2495349,irrelevant knockout 
+,,GSM2495350,irrelevant knockout 
+,,GSM2495351,irrelevant knockout 
+,,GSM2495352,irrelevant knockout 
+,,GSM2495353,irrelevant knockout 
+,,GSM2495354,irrelevant knockout 
+,,GSM2495355,irrelevant knockout 
+,,GSM2495356,irrelevant knockout 
+,,GSM2495357,irrelevant knockout 
+,,GSM2495358,irrelevant knockout 
+,,GSM2495359,irrelevant knockout 
+,,GSM2495360,irrelevant knockout 
+,,GSM2495361,irrelevant knockout 
+,,GSM2495365,irrelevant knockout 
+,,GSM2495366,irrelevant knockout 
+,,GSM2495367,irrelevant knockout 
+,,GSM2495368,irrelevant knockout 
+,,GSM2495369,irrelevant knockout 
+,,GSM2495371,irrelevant knockout 
+,,GSM2495375,irrelevant knockout 
+,,GSM2495376,irrelevant knockout 
+,,GSM2495377,irrelevant knockout 
+,,GSM2495378,irrelevant knockout 
+,,GSM2495379,irrelevant knockout 
+,,GSM2495380,irrelevant knockout 
+,,GSM2495381,irrelevant knockout 
+,,GSM2495382,irrelevant knockout 
+,,GSM2495383,irrelevant knockout 
+,,GSM2495384,irrelevant knockout 
+,,GSM2495385,irrelevant knockout 
+,,GSM2495389,irrelevant knockout 
+,,GSM2495390,irrelevant knockout 
+,,GSM2495391,irrelevant knockout 
+,,GSM2495392,irrelevant knockout 
+,,GSM2495393,irrelevant knockout 
+,,GSM2495394,irrelevant knockout 
+,,GSM2495395,irrelevant knockout 
+,,GSM2495396,irrelevant knockout 
+,,GSM2495397,irrelevant knockout 
+,,GSM2495398,irrelevant knockout 
+,,GSM2495399,irrelevant knockout 
+,,GSM2495400,irrelevant knockout 
+,,GSM2495401,irrelevant knockout 
+,,GSM2495402,irrelevant knockout 
+,,GSM2495403,irrelevant knockout 
+,,GSM2495404,irrelevant knockout 
+,,GSM2495405,irrelevant knockout 
+,,GSM2495406,irrelevant knockout 
+,,GSM2495407,irrelevant knockout 
+,,GSM2495408,irrelevant knockout 
+,,GSM2495409,irrelevant knockout 
+,,GSM2495410,irrelevant knockout 
+,,GSM2495411,irrelevant knockout 
+,,GSM2495412,irrelevant knockout 
+,,GSM2495413,irrelevant knockout 
+,,GSM2495414,irrelevant knockout 
+,,GSM2495415,irrelevant knockout 
+,,GSM2495416,irrelevant knockout 
+,,GSM2495417,irrelevant knockout 
+,,GSM2495418,irrelevant knockout 
+,,GSM2495419,irrelevant knockout 
+,,GSM2495420,irrelevant knockout 
+,,GSM2495421,irrelevant knockout 
+,,GSM2495422,irrelevant knockout 
+,,GSM2495423,irrelevant knockout 
+,,GSM2495424,irrelevant knockout 
+,,GSM2495425,irrelevant knockout 
+,,GSM2495426,irrelevant knockout 
+,,GSM2495427,irrelevant knockout 
+,,GSM2495428,irrelevant knockout 
+,,GSM2495429,irrelevant knockout 
+,,GSM2495430,irrelevant knockout 
+,,GSM2495431,irrelevant knockout 
+,,GSM2495432,irrelevant knockout 
+,,GSM2495433,irrelevant knockout 
+,,GSM2495434,irrelevant knockout 
+,,GSM2495435,irrelevant knockout 
+,,GSM2495439,irrelevant knockout 
+,,GSM2495440,irrelevant knockout 
+,,GSM2495441,irrelevant knockout 
+,,GSM2495442,irrelevant knockout 
+,,GSM2495443,irrelevant knockout 
+,,GSM2495444,irrelevant knockout 
+,,GSM2495445,irrelevant knockout 
+,,GSM2495446,irrelevant knockout 
+,,GSM2495447,irrelevant knockout 
+,,GSM2495448,irrelevant knockout 
+,,GSM2495449,irrelevant knockout 
+,,GSM2495450,irrelevant knockout 
+,,GSM2495451,irrelevant knockout 
+,,GSM2495453,irrelevant knockout 
+,,GSM2495454,irrelevant knockout 
+,,GSM2495455,irrelevant knockout 
+,,GSM2495458,irrelevant knockout 
+,,GSM2495459,irrelevant knockout 
+,,GSM2495460,irrelevant knockout 
+,,GSM2495464,irrelevant knockout 
+,,GSM2495465,irrelevant knockout 
+,,GSM2495466,irrelevant knockout 
+,,GSM2495467,irrelevant knockout 
+,,GSM2495468,irrelevant knockout 
+,,GSM2495469,irrelevant knockout 
+,,GSM2495470,irrelevant knockout 
+,,GSM2495471,irrelevant knockout 
+,,GSM2495472,irrelevant knockout 
+,,GSM2495473,irrelevant knockout 
+,,GSM2495474,irrelevant knockout 
+,,GSM2495475,irrelevant knockout 
+,,GSM2495476,irrelevant knockout 
+,,GSM2495477,irrelevant knockout 
+,,GSM2495478,irrelevant knockout 
+,,GSM2495479,irrelevant knockout 
+,,GSM2495480,irrelevant knockout 
+,,GSM2495481,irrelevant knockout 
+,,GSM2495482,irrelevant knockout 
+,,GSM2495483,irrelevant knockout 
+,,GSM2495484,irrelevant knockout 
+,,GSM2495485,irrelevant knockout 
+,,GSM2495489,irrelevant knockout 
+,,GSM2495490,irrelevant knockout 
+,,GSM2495491,irrelevant knockout 
+,,GSM2495492,irrelevant knockout 
+,,GSM2495493,irrelevant knockout 
+,,GSM2495494,irrelevant knockout 
+,,GSM2495495,irrelevant knockout 
+,,GSM2495496,irrelevant knockout 
+,,GSM2495497,irrelevant knockout 
+,,GSM2495498,irrelevant knockout 
+,,GSM2495499,irrelevant knockout 
+,,GSM2495500,irrelevant knockout 
+,,GSM2495501,irrelevant knockout 
+,,GSM2495502,irrelevant knockout 
+,,GSM2495503,irrelevant knockout 
+,,GSM2495504,irrelevant knockout 
+,,GSM2495505,irrelevant knockout 
+,,GSM2495506,irrelevant knockout 
+,,GSM2495507,irrelevant knockout 
+,,GSM2495508,irrelevant knockout 
+,,GSM3347860,irrelevant knockout 
+,,GSM3347861,irrelevant knockout 
+,,GSM3347862,irrelevant knockout 
+,,GSM3347863,irrelevant knockout 
+,,GSM3347864,irrelevant knockout 
+,,GSM3347865,irrelevant knockout 
+,,GSM3347866,irrelevant knockout 
+,,GSM3347867,irrelevant knockout 
+,,GSM3347868,irrelevant knockout 
+,,GSM3347869,irrelevant knockout 
+,,GSM3347870,irrelevant knockout 
+,,GSM3347871,irrelevant knockout 
+,,GSM3347872,irrelevant knockout 
+,,GSM3347876,irrelevant knockout 
+,,GSM3347877,irrelevant knockout 
+,,GSM3347878,irrelevant knockout 
+,,GSM3347879,irrelevant knockout 
+,,GSM3347880,irrelevant knockout 
+,,GSM3347881,irrelevant knockout 
+,,GSM3347882,irrelevant knockout 
+,,GSM3347883,irrelevant knockout 
+,,GSM3347884,irrelevant knockout 
+,,GSM3347885,irrelevant knockout 
+,,GSM3347886,irrelevant knockout 
+,,GSM3347887,irrelevant knockout 
+,,GSM3347888,irrelevant knockout 
+,,GSM3347889,irrelevant knockout 
+,,GSM3347890,irrelevant knockout 
+,,GSM3347891,irrelevant knockout 
+,,GSM3347892,irrelevant knockout 
+,,GSM3347893,irrelevant knockout 
+,,GSM3347894,irrelevant knockout 
+,,GSM3347895,irrelevant knockout 
+,,GSM3347896,irrelevant knockout 
+,,GSM3347900,irrelevant knockout 
+,,GSM3347901,irrelevant knockout 
+,,GSM3347902,irrelevant knockout 
+,,GSM3347903,irrelevant knockout 
+,,GSM3347904,irrelevant knockout 
+,,GSM3347905,irrelevant knockout 
+,,GSM3347906,irrelevant knockout 
+,,GSM3347907,irrelevant knockout 
+,,GSM3347908,irrelevant knockout 
+,,GSM3347909,irrelevant knockout 
+,,GSM3347910,irrelevant knockout 
+,,GSM3347911,irrelevant knockout 
+,,GSM3347912,irrelevant knockout 
+,,GSM3347913,irrelevant knockout 
+,,GSM3347914,irrelevant knockout 
+,,GSM3347915,irrelevant knockout 
+,,GSM3347916,irrelevant knockout 
+,,GSM3347917,irrelevant knockout 
+,,GSM3347918,irrelevant knockout 
+,,GSM3347919,irrelevant knockout 
+,,GSM3347920,irrelevant knockout 
+,,GSM3347923,irrelevant knockout 
+,,GSM3347924,irrelevant knockout 
+,,GSM3347925,irrelevant knockout 
+,,GSM3347926,irrelevant knockout 
+,,GSM3347927,irrelevant knockout 
+,,GSM3347928,irrelevant knockout 
+,,GSM3347929,irrelevant knockout 
+,,GSM3347930,irrelevant knockout 
+,,GSM3347931,irrelevant knockout 
+,,GSM3347932,irrelevant knockout 
+,,GSM3347933,irrelevant knockout 
+,,GSM3347934,irrelevant knockout 
+,,GSM3347935,irrelevant knockout 
+,,GSM3347936,irrelevant knockout 
+,,GSM3347937,irrelevant knockout 
+,,GSM3347938,irrelevant knockout 
+,,GSM3347939,irrelevant knockout 
+,,GSM3347940,irrelevant knockout 
+,,GSM3347941,irrelevant knockout 
+,,GSM3347942,irrelevant knockout 
+,,GSM3347943,irrelevant knockout 
+,,GSM3347944,irrelevant knockout 
+,,GSM3347947,irrelevant knockout 
+,,GSM3347948,irrelevant knockout 
+,,GSM3347949,irrelevant knockout 
+,,GSM3347950,irrelevant knockout 
+,,GSM3347951,irrelevant knockout 
+,,GSM3347952,irrelevant knockout 
+,,GSM3347953,irrelevant knockout 
+,,GSM3347954,irrelevant knockout 
+,,GSM3683601,irrelevant knockout 
+,,GSM3683602,irrelevant knockout 
+,,GSM3683603,irrelevant knockout 
+,,GSM3683604,irrelevant knockout 
+,,GSM3908410,irrelevant knockout 
+,,GSM3908411,irrelevant knockout 
+,,GSM3908412,irrelevant knockout 
+,,GSM3908413,irrelevant knockout 
+,,GSM3009673,irrelevant knockout 
+,,GSM3009674,irrelevant knockout 
+,,GSM3009675,irrelevant knockout 
+,,GSM2706329,irrelevant knockout 
+,,GSM2706330,irrelevant knockout 
+,,GSM2706331,irrelevant knockout 
+,,GSM2706342,irrelevant knockout 
+,,GSM2706343,irrelevant knockout 
+,,GSM2706344,irrelevant knockout 
+,,GSM3004157,irrelevant knockout 
+,,GSM3004158,irrelevant knockout 
+,,GSM3004159,irrelevant knockout 
+,,GSM3004160,irrelevant knockout 
+,,GSM3004175,irrelevant knockout 
+,,GSM3004176,irrelevant knockout 
+,,GSM3004177,irrelevant knockout 
+,,GSM3004178,irrelevant knockout 
+,,GSM4104194,irrelevant cell cycle stage 
+,,GSM4104195,irrelevant cell cycle stage 
+,,GSM4104196,irrelevant cell cycle stage 
+,,GSM4104197,irrelevant cell cycle stage 
+,,GSM4104206,irrelevant knockout 
+,,GSM4104207,irrelevant knockout 
+,,GSM4104208,irrelevant knockout 
+,,GSM4104209,irrelevant knockout 
+,,GSM3914265,irrelevant knockout 
+,,GSM3914266,irrelevant knockout 
+,,GSM3914267,irrelevant knockout 
+,,GSM1562387,irrelevant cell line 
+,,GSM1562388,irrelevant cell line 
+,,GSM1562389,irrelevant cell line 
+,,GSM1562390,irrelevant cell line 
+,,GSM1562391,irrelevant cell line 
+,,GSM1562392,irrelevant cell line 
+,,GSM1562393,irrelevant cell line 
+,,GSM1562394,irrelevant cell line 
+,,GSM1562395,irrelevant cell line 
+,,GSM1562396,irrelevant cell line 
+,,GSM1562397,irrelevant cell line 
+,,GSM1562398,irrelevant cell line 
+,,GSM1562399,irrelevant cell line 
+,,GSM1562400,irrelevant cell line 
+,,GSM1562401,irrelevant cell line 
+,,GSM1562402,irrelevant cell line 
+,,GSM1562403,irrelevant cell line 
+,,GSM1562404,irrelevant cell line 
+,,GSM1562405,irrelevant cell line 
+,,GSM1562406,irrelevant cell line 
+,,GSM1562407,irrelevant cell line 
+,,GSM1562408,irrelevant cell line 
+,,GSM1562409,irrelevant cell line 
+,,GSM1562410,irrelevant cell line 
+,,GSM1562411,irrelevant cell line 
+,,GSM1562412,irrelevant cell line 
+,,GSM1562413,irrelevant cell line 
+,,GSM1562414,irrelevant cell line 
+,,GSM1562415,irrelevant cell line 
+,,GSM1562416,irrelevant cell line 
+,,GSM1562417,irrelevant cell line 
+,,GSM1562418,irrelevant cell line 
+,,GSM1562419,irrelevant cell line 
+,,GSM1562420,irrelevant cell line 
+,,GSM1562421,irrelevant cell line 
+,,GSM1562422,irrelevant cell line 
+,,GSM1562423,irrelevant cell line 
+,,GSM1562424,irrelevant cell line 
+,,GSM1562425,irrelevant cell line 
+,,GSM1562426,irrelevant cell line 
+,,GSM1562427,irrelevant cell line 
+,,GSM1562428,irrelevant cell line 
+,,GSM1562429,irrelevant cell line 
+,,GSM1562430,irrelevant cell line 
+,,GSM1562431,irrelevant cell line 
+,,GSM1562432,irrelevant cell line 
+,,GSM1562433,irrelevant cell line 
+,,GSM1562434,irrelevant cell line 
+,,GSM1562435,irrelevant cell line 
+,,GSM1562436,irrelevant cell line 
+,,GSM1562437,irrelevant cell line 
+,,GSM1562438,irrelevant cell line 
+,,GSM1562439,irrelevant cell line 
+,,GSM1562440,irrelevant cell line 
+,,GSM1562441,irrelevant cell line 
+,,GSM1562442,irrelevant cell line 
+,,GSM1562443,irrelevant cell line 
+,,GSM1562444,irrelevant cell line 
+,,GSM1562445,irrelevant cell line 
+,,GSM1562446,irrelevant cell line 
+,,GSM1562447,irrelevant cell line 
+,,GSM1562448,irrelevant cell line 
+,,GSM1562449,irrelevant cell line 
+,,GSM1562450,irrelevant cell line 
+,,GSM1562451,irrelevant cell line 
+,,GSM1562452,irrelevant cell line 
+,,GSM1562453,irrelevant cell line 
+,,GSM1562454,irrelevant cell line 
+,,GSM1562455,irrelevant cell line 
+,,GSM1562456,irrelevant cell line 
+,,GSM1562457,irrelevant cell line 
+,,GSM1562458,irrelevant cell line 
+,,GSM1562459,irrelevant cell line 
+,,GSM1562460,irrelevant cell line 
+,,GSM1562461,irrelevant cell line 
+,,GSM1562462,irrelevant cell line 
+,,GSM1562463,irrelevant cell line 
+,,GSM1562464,irrelevant cell line 
+,,GSM1562465,irrelevant cell line 
+,,GSM1562466,irrelevant cell line 
+,,GSM1562467,irrelevant cell line 
+,,GSM1562468,irrelevant cell line 
+,,GSM1562469,irrelevant cell line 
+,,GSM1562470,irrelevant cell line 
+,,GSM1562471,irrelevant cell line 
+,,GSM1562472,irrelevant cell line 
+,,GSM1562473,irrelevant cell line 
+,,GSM1562474,irrelevant cell line 
+,,GSM1562475,irrelevant cell line 
+,,GSM1562476,irrelevant cell line 
+,,GSM1562477,irrelevant cell line 
+,,GSM1562478,irrelevant cell line 
+,,GSM1562479,irrelevant cell line 
+,,GSM1562480,irrelevant cell line 
+,,GSM1562481,irrelevant cell line 
+,,GSM1562482,irrelevant cell line 
+,,GSM1562483,irrelevant cell line 
+,,GSM1562484,irrelevant cell line 
+,,GSM1562485,irrelevant cell line 
+,,GSM1562486,irrelevant cell line 
+,,GSM1562487,irrelevant cell line 
+,,GSM1562488,irrelevant cell line 
+,,GSM1562489,irrelevant cell line 
+,,GSM1562490,irrelevant cell line 
+,,GSM1562491,irrelevant cell line 
+,,GSM1562492,irrelevant cell line 
+,,GSM1562493,irrelevant cell line 
+,,GSM1562494,irrelevant cell line 
+,,GSM1562495,irrelevant cell line 
+,,GSM1562496,irrelevant cell line 
+,,GSM1562497,irrelevant cell line 
+,,GSM1562498,irrelevant cell line 
+,,GSM1562499,irrelevant cell line 
+,,GSM1562500,irrelevant cell line 
+,,GSM1562501,irrelevant cell line 
+,,GSM1562502,irrelevant cell line 
+,,GSM1562503,irrelevant cell line 
+,,GSM1562504,irrelevant cell line 
+,,GSM1562505,irrelevant cell line 
+,,GSM1562506,irrelevant cell line 
+,,GSM1562507,irrelevant cell line 
+,,GSM1562508,irrelevant cell line 
+,,GSM1562509,irrelevant cell line 
+,,GSM1562510,irrelevant cell line 
+,,GSM1562511,irrelevant cell line 
+,,GSM1562512,irrelevant cell line 
+,,GSM1562513,irrelevant cell line 
+,,GSM1562514,irrelevant cell line 
+,,GSM1562515,irrelevant cell line 
+,,GSM1562516,irrelevant cell line 
+,,GSM1562517,irrelevant cell line 
+,,GSM1562518,irrelevant cell line 
+,,GSM1562519,irrelevant cell line 
+,,GSM1562520,irrelevant cell line 
+,,GSM1562521,irrelevant cell line 
+,,GSM1562522,irrelevant cell line 
+,,GSM1562523,irrelevant cell line 
+,,GSM1562524,irrelevant cell line 
+,,GSM1562525,irrelevant cell line 
+,,GSM1562526,irrelevant cell line 
+,,GSM1562527,irrelevant cell line 
+,,GSM1562528,irrelevant cell line 
+,,GSM1562529,irrelevant cell line 
+,,GSM1562530,irrelevant cell line 
+,,GSM1562531,irrelevant cell line 
+,,GSM1562532,irrelevant cell line 
+,,GSM1562533,irrelevant cell line 
+,,GSM1562534,irrelevant cell line 
+,,GSM1562535,irrelevant cell line 
+,,GSM1562536,irrelevant cell line 
+,,GSM1562537,irrelevant cell line 
+,,GSM1562538,irrelevant cell line 
+,,GSM1562539,irrelevant cell line 
+,,GSM1562540,irrelevant cell line 
+,,GSM1562541,irrelevant cell line 
+,,GSM1562542,irrelevant cell line 
+,,GSM1562543,irrelevant cell line 
+,,GSM1562544,irrelevant cell line 
+,,GSM1562545,irrelevant cell line 
+,,GSM1562546,irrelevant cell line 
+,,GSM1562547,irrelevant cell line 
+,,GSM1562548,irrelevant cell line 
+,,GSM1562549,irrelevant cell line 
+,,GSM1562550,irrelevant cell line 
+,,GSM1562551,irrelevant cell line 
+,,GSM1562552,irrelevant cell line 
+,,GSM1562553,irrelevant cell line 
+,,GSM1562554,irrelevant cell line 
+,,GSM1562555,irrelevant cell line 
+,,GSM1562556,irrelevant cell line 
+,,GSM1562557,irrelevant cell line 
+,,GSM1562558,irrelevant cell line 
+,,GSM1562559,irrelevant cell line 
+,,GSM1562560,irrelevant cell line 
+,,GSM1562561,irrelevant cell line 
+,,GSM1562562,irrelevant cell line 
+,,GSM1562563,irrelevant cell line 
+,,GSM1562564,irrelevant cell line 
+,,GSM1562565,irrelevant cell line 
+,,GSM1562566,irrelevant cell line 
+,,GSM1562567,irrelevant cell line 
+,,GSM1562568,irrelevant cell line 
+,,GSM1562569,irrelevant cell line 
+,,GSM1562570,irrelevant cell line 
+,,GSM1562571,irrelevant cell line 
+,,GSM1562572,irrelevant cell line 
+,,GSM1562573,irrelevant cell line 
+,,GSM1562574,irrelevant cell line 
+,,GSM1562575,irrelevant cell line 
+,,GSM1562576,irrelevant cell line 
+,,GSM1562577,irrelevant cell line 
+,,GSM1562578,irrelevant cell line 
+,,GSM1562579,irrelevant cell line 
+,,GSM1562580,irrelevant cell line 
+,,GSM1562581,irrelevant cell line 
+,,GSM1562582,irrelevant cell line 
+,,GSM1562583,irrelevant cell line 
+,,GSM1562584,irrelevant cell line 
+,,GSM1562585,irrelevant cell line 
+,,GSM1562586,irrelevant cell line 
+,,GSM1562587,irrelevant cell line 
+,,GSM1562588,irrelevant cell line 
+,,GSM1562589,irrelevant cell line 
+,,GSM1562590,irrelevant cell line 
+,,GSM1562591,irrelevant cell line 
+,,GSM1562592,irrelevant cell line 
+,,GSM1562593,irrelevant cell line 
+,,GSM1562594,irrelevant cell line 
+,,GSM1562595,irrelevant cell line 
+,,GSM1562596,irrelevant cell line 
+,,GSM1562597,irrelevant cell line 
+,,GSM1562598,irrelevant cell line 
+,,GSM1562599,irrelevant cell line 
+,,GSM2452050,irrelevant cell line 
+,,GSM3683591,irrelevant treatment
+,,GSM3683592,irrelevant treatment
+,,GSM3683595,irrelevant treatment
+,,GSM3683596,irrelevant treatment
+,,GSM3683599,irrelevant treatment
+,,GSM3683600,irrelevant treatment
+,,GSM2706322,outlier
+,,GSM2706335,outlier
