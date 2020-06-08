@@ -59,7 +59,7 @@ FindRanksSeries <- function(series_id,meta_frame, expression_frame, true_gene_se
     random_res[[4]][i] = delta_zscore
     
     #method = PLAGE
-    plage_series <- gsva(expression_series, random_gs , mx.diff = TRUE, abs.ranking = TRUE, method = "plage") 
+    plage_series <- gsva(expression_series, random_gs , mx.diff = TRUE, abs.ranking = TRUE, method = "plage" ) 
     #getting medians of case and control group 
     median_plage_case <- median(plage_series[, colnames(plage_series) %in% case_s])
     median_plage_control <- median(plage_series[, colnames(plage_series) %in% control_s])

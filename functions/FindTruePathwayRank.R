@@ -38,7 +38,7 @@ FindTruePathway <- function(case_s, control_s, true_gene_set, expression_series)
   curr_res[[4]][1] = delta_zscore
   
   #method = PLAGE
-  plage_series <- gsva(expression_series, true_gene_set , mx.diff = TRUE, abs.ranking = TRUE, method = "plage") 
+  plage_series <- gsva(expression_series, true_gene_set , mx.diff = TRUE, abs.ranking = TRUE, method = "plage" ) 
   #getting medians of case and control group 
   median_plage_case <- median(plage_series[, colnames(plage_series) %in% case_s])
   median_plage_control <- median(plage_series[, colnames(plage_series) %in% control_s])

@@ -26,7 +26,7 @@ ssGSEA <- function(gene_set_list, data_frame, expression_frame, exp_str, pathway
     cond = as.vector(df$condition)
     title = paste("ssGSEA:",exp_str,series_u)
     expression_subset = expression_frame[,colnames(expression_frame) %in% samples_for_series_v]
-    df_es <- gsva(expression_subset,gene_set_list, method = "ssgsea")
+    df_es <- gsva(expression_subset,gene_set_list, method = "ssgsea",kcdf = "Poisson" )
     transpose = t(df_es)
     res.pca <- prcomp(transpose, scale. = TRUE)
     g <- ggbiplot(res.pca,obs.scale = 1, var.scale = 1 , groups = cond, ellipse = ell,
