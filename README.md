@@ -12,3 +12,25 @@ Similarly to how the benchmarking data sets were generated, the runscript in the
 The folder called TCGA contains one R script for each cancer that was studied. In each script, linear regression analysis is performed separately for all pathways and you should be able to get the results by simply running this script. The prepping_data script merges the metadata (meta_data_tcga) and the calculated scores (singscore_TCGA) for further analysis. Thus, this script must be run first.
 
 # Functions
+In order to (at least attempt to) keep my project tidy, each function usually has its own designated script. The following table gives you a rough overview of what each script/function does:
+
+| script | What it does | 
+| --- | --- |
+| AllSeriesRanks | combines the ranks of the true gene set out of 100 random gene sets for all series and scoring methods (using FindRankSeries) |
+|condition | semi-automatic case/control annotation based on the occurence of specific words |
+| expression_data | gets expression data for a list of sample accessions|
+| FindRankSeries |  finds the ranks of the true gene set out of 100 random gene sets for one series for all scoring methods (using FindTruePathwayRank |
+| FindTruePathwayRank | finds the rank of the true gene set for all scoring methods | 
+| GSVA_function | finds the rank of the true hallmark gene set out of all gene sets using the scoring methods available in the GSVA package | 
+| ignoring_finalising | misc. file with multiple functions: 1. case/control annotation in the benchmarking data set, needs list of samples to correct 2. makes a nice final data frame 3. writes tsv file with results to path wanted |
+| lib_norm_check_p53 | checks if library normalisation worked by plotting expression data in boxplot for a series |
+| merging_tech_replicates | merges technical replicates, needs list of replicates | normalise_scale | two functions: 1. library normalisation (upper quantile UQ or centred-log-ratio CLR), log transformation and gene length correction (did not work on this data set) 2. defines expression cutoff | 
+| PCA | plots PCA for series and/or samples |
+| plotting_series | produces t-SNE plots for each series (using tSNE) | 
+| plotting_tsne_series_overview | produces t-SNE plot for all series | 
+| search_function | searches the h5 file downloaded from ARCHS4, needs search terms | 
+| singscore_function |  finds the rank of the true hallmark gene set out of all gene sets using singscore | 
+| ssGSEA_function | produces ssGSEA biplots for each series, needs gene sets | 
+| tSNE | transposes data and gives tSNE results |
+
+
