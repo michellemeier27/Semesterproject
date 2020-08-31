@@ -34,4 +34,4 @@ In order to (at least attempt to) keep my project tidy, each function usually ha
 | tSNE | transposes data and gives tSNE results |
 
 # Contact
-If you have any further questions, feel free to contact me via email: mailto:mimeier@biol.ethz.ch
+If you have any further questions, feel free to contact me via email: (mailto:mimeier@biol.ethz.ch)
