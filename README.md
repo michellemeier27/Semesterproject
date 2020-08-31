@@ -1,4 +1,4 @@
-This is the github repository for my semesterproject. It contains the R scripts used to generate all the data presented in the final report, intermediate results for the linear regression and the cell cycle inhibitor analysis and the final benchmarking data set for all pathways. Please note that in general, all scripts contain local paths that must be adjusted before using them. 
+This is the github repository for my semesterproject. It contains the R scripts used to generate all the data presented in the final report, intermediate results for the linear regression and the cell cycle inhibitor analysis and the final benchmarking data set for all pathways. Please note that in general, all scripts contain local paths that must be adjusted before using them. I also added my finished report, in case someone needs something to read during this pandemic.
 
 # Benchmarking data set
 The folder benchmarking_data_sets contains 6 subfolders, one for each pathway. In each folder, you can find the runfile which combines all functions, a list of samples removed from further analysis, a list of defined subseries, a list of case/control annotations, a R script combining technical replicates and a R script called manual which was used for miscellaneous manual curation of the data. Running the runfile should produce the data set for that pathway as a tsv file. It also produces all t-SNE, PCA and ssGSEA plots that were used to assess the quality of the series/sample. Please note that you will need to download the human expression matrix (gene level) from the ARCHS4 website and, if you want to plot ssGSEA biplots, you will also need to download the corresponding gene sets from MSigDB.
@@ -33,4 +33,5 @@ In order to (at least attempt to) keep my project tidy, each function usually ha
 | ssGSEA_function | produces ssGSEA biplots for each series, needs gene sets | 
 | tSNE | transposes data and gives tSNE results |
 
-
+# Contact
+If you have any further questions, feel free to contact me via email: mailto:mimeier@biol.ethz.ch
